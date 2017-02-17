@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+body
+{
+    color: white;
+    background-color: #2F4F4F;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+span#clock_date{
+    font-size:111px;
+
+
+}
+span#clock_time{
+    font-size: 250px;
+
+
+    }
+  #Chino_image{
+    position: absolute;
+    top: 0px;
+    right: 100px;
+  }
